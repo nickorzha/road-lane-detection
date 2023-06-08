@@ -4,7 +4,7 @@ from matplotlib import pyplot as plt
 
 
 def lanesDetection(img):
-    # img = cv.imread("./img/road.jpg")
+    # img = cv.imread("./img/road.jpg") #test data
     # img = cv.cvtColor(img, cv.COLOR_BGR2RGB)
 
     # print(img.shape)
